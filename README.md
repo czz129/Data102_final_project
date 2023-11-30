@@ -1,4 +1,4 @@
-# Data102_final_project
+# Data102_final_project -- Predict US Election Result
 This repository contains code and data for our final project in Data 102 at UC Berkeley.
 
 In this project, we analyzed datasets on candidates in the 2018 US House and Senate primaries to explore two key questions:
